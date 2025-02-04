@@ -48,7 +48,7 @@ docker run -d -p 9200:9200 -p 5601:5601 -e SSL_MODE=false ghcr.io/nshou/elastics
 
 Tag     | Elasticsearch | Kibana
 ------- | ------------- | ------
-latest  | 8.10.4        | 8.10.4
+latest  | 8.17.1        | 8.17.1
 kibana7 | 7.17.9        | 7.17.9
 kibana6 | 6.5.4         | 6.5.4
 kibana5 | 5.6.6         | 5.6.6
