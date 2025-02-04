@@ -3,7 +3,7 @@ FROM ubuntu:latest
 LABEL maintainer "nshou <nshou@coronocoya.net>"
 
 # Elasticsearch / Kibana Stack version.
-ENV EK_VERSION=8.10.4
+ENV EK_VERSION=8.17.1
 
 # Enable Security for Elasticsearch / Kibana.
 ENV SSL_MODE=true
